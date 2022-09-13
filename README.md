@@ -8,6 +8,6 @@ _60 minutes_
 ##### Csharp Basics 
 _What is the method?; What is the variable?; What is the namespace?; What is the class?; Using "using" keyword; method's return types;_
 ##### Type Basics
-_Built-in types; Custom types; Static members and Instance members?_
+_Built-in types; Custom types; Static members and Instance members?;_
 ##### Text types
 _Declaring char variable; Declaring string type; Escape sequences; Verbatim string literal; String interpolation;_
