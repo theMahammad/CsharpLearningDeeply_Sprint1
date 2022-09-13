@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\09.09.2022\TypeBasics\bin\Debug\net6.0\TypeBasics.exe
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\09.09.2022\TypeBasics\bin\Debug\net6.0\TypeBasics.deps.json
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\09.09.2022\TypeBasics\bin\Debug\net6.0\TypeBasics.runtimeconfig.json
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\09.09.2022\TypeBasics\bin\Debug\net6.0\TypeBasics.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\09.09.2022\TypeBasics\bin\Debug\net6.0\TypeBasics.pdb
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\09.09.2022\TypeBasics\obj\Debug\net6.0\TypeBasics.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\09.09.2022\TypeBasics\obj\Debug\net6.0\TypeBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\09.09.2022\TypeBasics\obj\Debug\net6.0\TypeBasics.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\09.09.2022\TypeBasics\obj\Debug\net6.0\TypeBasics.AssemblyInfo.cs
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\09.09.2022\TypeBasics\obj\Debug\net6.0\TypeBasics.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\09.09.2022\TypeBasics\obj\Debug\net6.0\TypeBasics.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\09.09.2022\TypeBasics\obj\Debug\net6.0\refint\TypeBasics.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\09.09.2022\TypeBasics\obj\Debug\net6.0\TypeBasics.pdb
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\09.09.2022\TypeBasics\obj\Debug\net6.0\TypeBasics.genruntimeconfig.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\09.09.2022\TypeBasics\obj\Debug\net6.0\ref\TypeBasics.dll
