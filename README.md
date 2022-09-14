@@ -10,3 +10,10 @@ _Built-in types; Custom types; Static members and Instance members?;_
 
 ##### Text types
 _Declaring char variable; Declaring string type; Escape sequences; Verbatim string literal; String interpolation;_
+
+## Day 2 (14 September 2022)
+#### How much time have I spared to Csharp today?
+_60 minutes_
+#### What topics have I looked into today? 
+##### Selection statements
+_If,if-else;switch statement; switching on types(Introduction)_
