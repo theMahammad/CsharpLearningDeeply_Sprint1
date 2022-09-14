@@ -1,7 +1,5 @@
-# Csharp_Learning_Deeply_Sprint1
-## Duration
-It will last a month - between 13 September 2022 and 13 October 2022.
-### Day 1 (13 September 2022)
+# Learning Csharp Deeply - Sprint 1 (13 September 2022 - 13 October 2022)
+## Day 1 (13 September 2022)
 #### How much time have I spared to Csharp today?
 _60 minutes_
 #### What topics have I looked into today? 
