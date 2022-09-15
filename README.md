@@ -1,8 +1,8 @@
 # Learning Csharp Deeply - Sprint 1 (13 September 2022 - 13 October 2022)
 ## Day 1 (13 September 2022)
-#### How much time have I spared to Csharp today?
+#### _How much time have I spared to Csharp today?_
 _60 minutes_
-#### What topics have I looked into today? 
+#### _What topics have I looked into today?_ 
 ##### Csharp Basics 
 _What is the method?; What is the variable?; What is the namespace?; What is the class?; Using "using" keyword; method's return types;_
 ##### Type Basics
@@ -12,8 +12,17 @@ _Built-in types; Custom types; Static members and Instance members?;_
 _Declaring char variable; Declaring string type; Escape sequences; Verbatim string literal; String interpolation;_
 
 ## Day 2 (14 September 2022)
-#### How much time have I spared to Csharp today?
+#### _How much time have I spared to Csharp today?_
 _60 minutes_
-#### What topics have I looked into today? 
+#### _What topics have I looked into today?_
 ##### Selection statements
 _If,if-else;switch statement; switching on types(Introduction)_
+
+## Day 3 (15 September 2022)
+#### _How much time have I spared to Csharp today?_
+
+#### _What topics have I looked into today?_
+##### Switch statement
+_Switching on types;_
+##### Iteration statement
+_The while statement(introduction)_

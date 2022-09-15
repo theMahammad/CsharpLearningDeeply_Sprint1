@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\15.09.2022\SwitchStatement\bin\Debug\net6.0\SwitchStatement.exe
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\15.09.2022\SwitchStatement\bin\Debug\net6.0\SwitchStatement.deps.json
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\15.09.2022\SwitchStatement\bin\Debug\net6.0\SwitchStatement.runtimeconfig.json
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\15.09.2022\SwitchStatement\bin\Debug\net6.0\SwitchStatement.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\15.09.2022\SwitchStatement\bin\Debug\net6.0\SwitchStatement.pdb
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\15.09.2022\SwitchStatement\obj\Debug\net6.0\SwitchStatement.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\15.09.2022\SwitchStatement\obj\Debug\net6.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\15.09.2022\SwitchStatement\obj\Debug\net6.0\SwitchStatement.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\15.09.2022\SwitchStatement\obj\Debug\net6.0\SwitchStatement.AssemblyInfo.cs
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\15.09.2022\SwitchStatement\obj\Debug\net6.0\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\15.09.2022\SwitchStatement\obj\Debug\net6.0\SwitchStatement.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\15.09.2022\SwitchStatement\obj\Debug\net6.0\refint\SwitchStatement.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\15.09.2022\SwitchStatement\obj\Debug\net6.0\SwitchStatement.pdb
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\15.09.2022\SwitchStatement\obj\Debug\net6.0\SwitchStatement.genruntimeconfig.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\15.09.2022\SwitchStatement\obj\Debug\net6.0\ref\SwitchStatement.dll
