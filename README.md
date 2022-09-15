@@ -20,9 +20,9 @@ _If,if-else;switch statement; switching on types(Introduction)_
 
 ## Day 3 (15 September 2022)
 #### _How much time have I spared to Csharp today?_
-
+_30 minutes_
 #### _What topics have I looked into today?_
 ##### Switch statement
 _Switching on types;_
-##### Iteration statement
+##### Iteration statements
 _The while statement(introduction)_
