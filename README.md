@@ -16,7 +16,7 @@ _Declaring char variable; Declaring string type; Escape sequences; Verbatim stri
 _60 minutes_
 #### _What topics have I looked into today?_
 ##### Selection statements
-_If,if-else;switch statement; switching on types(Introduction)_
+_If,if-else;switch statement; switching on types(Introduction);_
 
 ## Day 3 (15 September 2022)
 #### _How much time have I spared to Csharp today?_
@@ -25,4 +25,13 @@ _30 minutes_
 ##### Switch statement
 _Switching on types;_
 ##### Iteration statements
-_The while statement(introduction)_
+_The while statement(introduction);_
+
+## Day 4 (16 September 2022)
+#### _How much time have I spared to Csharp today?_
+_60 minutes_
+#### _What topics have I looked into today?_
+##### Iteration statements
+_for;while;do-while;_
+##### Jump statements
+_break;continue;_

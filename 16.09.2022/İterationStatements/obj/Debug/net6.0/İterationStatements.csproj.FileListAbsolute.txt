@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\16.09.2022\İterationStatements\bin\Debug\net6.0\İterationStatements.exe
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\16.09.2022\İterationStatements\bin\Debug\net6.0\İterationStatements.deps.json
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\16.09.2022\İterationStatements\bin\Debug\net6.0\İterationStatements.runtimeconfig.json
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\16.09.2022\İterationStatements\bin\Debug\net6.0\İterationStatements.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\16.09.2022\İterationStatements\bin\Debug\net6.0\İterationStatements.pdb
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\16.09.2022\İterationStatements\obj\Debug\net6.0\İterationStatements.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\16.09.2022\İterationStatements\obj\Debug\net6.0\İterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\16.09.2022\İterationStatements\obj\Debug\net6.0\İterationStatements.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\16.09.2022\İterationStatements\obj\Debug\net6.0\İterationStatements.AssemblyInfo.cs
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\16.09.2022\İterationStatements\obj\Debug\net6.0\İterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\16.09.2022\İterationStatements\obj\Debug\net6.0\İterationStatements.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\16.09.2022\İterationStatements\obj\Debug\net6.0\refint\İterationStatements.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\16.09.2022\İterationStatements\obj\Debug\net6.0\İterationStatements.pdb
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\16.09.2022\İterationStatements\obj\Debug\net6.0\İterationStatements.genruntimeconfig.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\16.09.2022\İterationStatements\obj\Debug\net6.0\ref\İterationStatements.dll

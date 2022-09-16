@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İterationStatements", "İterationStatements\İterationStatements.csproj", "{7F9CFF42-83D7-4FAD-B09B-0331EAD39563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpStatements", "JumpStatements\JumpStatements.csproj", "{08C9B0C0-3A7D-460C-B1B7-624C3B389D38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F9CFF42-83D7-4FAD-B09B-0331EAD39563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9CFF42-83D7-4FAD-B09B-0331EAD39563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F9CFF42-83D7-4FAD-B09B-0331EAD39563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F9CFF42-83D7-4FAD-B09B-0331EAD39563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C9B0C0-3A7D-460C-B1B7-624C3B389D38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C9B0C0-3A7D-460C-B1B7-624C3B389D38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C9B0C0-3A7D-460C-B1B7-624C3B389D38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C9B0C0-3A7D-460C-B1B7-624C3B389D38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A0E2ECB-7517-4F41-8EFB-CC296490A6B0}
+	EndGlobalSection
+EndGlobal
