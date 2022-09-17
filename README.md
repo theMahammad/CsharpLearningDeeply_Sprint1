@@ -35,3 +35,14 @@ _60 minutes_
 _for;while;do-while;_
 ##### Jump statements
 _break;continue;_
+
+## Day 5 (17 September 2022)
+#### _How much time have I spared to Csharp today?_
+_80 minutes_
+#### _What topics have I looked into today?_
+##### Jump statements
+_return keyword;_
+##### Classes
+_Declaring a Class;Using Field;Field initalization;_
+##### Methods
+_Method overloading;Method's signature;Expression-bodied methods;_

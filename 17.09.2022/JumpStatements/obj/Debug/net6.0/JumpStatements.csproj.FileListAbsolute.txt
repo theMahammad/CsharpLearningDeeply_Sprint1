@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\17.09.2022\JumpStatements\bin\Debug\net6.0\JumpStatements.exe
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\17.09.2022\JumpStatements\bin\Debug\net6.0\JumpStatements.deps.json
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\17.09.2022\JumpStatements\bin\Debug\net6.0\JumpStatements.runtimeconfig.json
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\17.09.2022\JumpStatements\bin\Debug\net6.0\JumpStatements.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\17.09.2022\JumpStatements\bin\Debug\net6.0\JumpStatements.pdb
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\17.09.2022\JumpStatements\obj\Debug\net6.0\JumpStatements.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\17.09.2022\JumpStatements\obj\Debug\net6.0\JumpStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\17.09.2022\JumpStatements\obj\Debug\net6.0\JumpStatements.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\17.09.2022\JumpStatements\obj\Debug\net6.0\JumpStatements.AssemblyInfo.cs
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\17.09.2022\JumpStatements\obj\Debug\net6.0\JumpStatements.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\17.09.2022\JumpStatements\obj\Debug\net6.0\JumpStatements.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\17.09.2022\JumpStatements\obj\Debug\net6.0\refint\JumpStatements.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\17.09.2022\JumpStatements\obj\Debug\net6.0\JumpStatements.pdb
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\17.09.2022\JumpStatements\obj\Debug\net6.0\JumpStatements.genruntimeconfig.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\17.09.2022\JumpStatements\obj\Debug\net6.0\ref\JumpStatements.dll
