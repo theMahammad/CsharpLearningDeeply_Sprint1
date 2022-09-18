@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\18.09.2022\MethodParameters\bin\Debug\net6.0\MethodParameters.exe
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\18.09.2022\MethodParameters\bin\Debug\net6.0\MethodParameters.deps.json
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\18.09.2022\MethodParameters\bin\Debug\net6.0\MethodParameters.runtimeconfig.json
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\18.09.2022\MethodParameters\bin\Debug\net6.0\MethodParameters.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\18.09.2022\MethodParameters\bin\Debug\net6.0\MethodParameters.pdb
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\18.09.2022\MethodParameters\obj\Debug\net6.0\MethodParameters.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\18.09.2022\MethodParameters\obj\Debug\net6.0\MethodParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\18.09.2022\MethodParameters\obj\Debug\net6.0\MethodParameters.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\18.09.2022\MethodParameters\obj\Debug\net6.0\MethodParameters.AssemblyInfo.cs
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\18.09.2022\MethodParameters\obj\Debug\net6.0\MethodParameters.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\18.09.2022\MethodParameters\obj\Debug\net6.0\MethodParameters.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\18.09.2022\MethodParameters\obj\Debug\net6.0\refint\MethodParameters.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\18.09.2022\MethodParameters\obj\Debug\net6.0\MethodParameters.pdb
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\18.09.2022\MethodParameters\obj\Debug\net6.0\MethodParameters.genruntimeconfig.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\18.09.2022\MethodParameters\obj\Debug\net6.0\ref\MethodParameters.dll

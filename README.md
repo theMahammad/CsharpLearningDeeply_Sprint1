@@ -46,3 +46,10 @@ _return keyword;_
 _Declaring a Class;Using Field;Field initalization;_
 ##### Methods
 _Method overloading;Method's signature;Expression-bodied methods;_
+
+## Day 6 (18 September 2022)
+#### _How much time have I spared to Csharp today?_
+_65 minutes_
+#### _What topics have I looked into today?_
+##### Methods
+_Local methods; Static Local methods;Passing Arguments by value;_
