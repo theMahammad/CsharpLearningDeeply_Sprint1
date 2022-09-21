@@ -53,3 +53,14 @@ _65 minutes_
 #### _What topics have I looked into today?_
 ##### Methods
 _Local methods; Static Local methods;Passing Arguments by value;_
+
+## Day 7 (19 September 2022)
+### Rest Day
+
+
+## Day 8 (20 September 2022)
+####  _How much time have I spared to Csharp today?_
+_30 minutes_
+#### _What topics have I looked into today?_
+##### Types
+_Value types; Reference types;_
