@@ -64,3 +64,10 @@ _30 minutes_
 #### _What topics have I looked into today?_
 ##### Types
 _Value types; Reference types;_
+
+## Day 9 (21 September 2022)
+####  _How much time have I spared to Csharp today?_
+_30 minutes_
+#### _What topics have I looked into today?_
+##### Passing arguments to the methods
+_Ref modifier; Out modifier;_

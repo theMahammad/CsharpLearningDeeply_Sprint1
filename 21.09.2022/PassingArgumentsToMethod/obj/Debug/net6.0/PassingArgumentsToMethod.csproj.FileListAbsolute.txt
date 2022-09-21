@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\21.09.2022\PassingArgumentsToMethod\bin\Debug\net6.0\PassingArgumentsToMethod.exe
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\21.09.2022\PassingArgumentsToMethod\bin\Debug\net6.0\PassingArgumentsToMethod.deps.json
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\21.09.2022\PassingArgumentsToMethod\bin\Debug\net6.0\PassingArgumentsToMethod.runtimeconfig.json
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\21.09.2022\PassingArgumentsToMethod\bin\Debug\net6.0\PassingArgumentsToMethod.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\21.09.2022\PassingArgumentsToMethod\bin\Debug\net6.0\PassingArgumentsToMethod.pdb
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\21.09.2022\PassingArgumentsToMethod\obj\Debug\net6.0\PassingArgumentsToMethod.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\21.09.2022\PassingArgumentsToMethod\obj\Debug\net6.0\PassingArgumentsToMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\21.09.2022\PassingArgumentsToMethod\obj\Debug\net6.0\PassingArgumentsToMethod.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\21.09.2022\PassingArgumentsToMethod\obj\Debug\net6.0\PassingArgumentsToMethod.AssemblyInfo.cs
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\21.09.2022\PassingArgumentsToMethod\obj\Debug\net6.0\PassingArgumentsToMethod.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\21.09.2022\PassingArgumentsToMethod\obj\Debug\net6.0\PassingArgumentsToMethod.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\21.09.2022\PassingArgumentsToMethod\obj\Debug\net6.0\refint\PassingArgumentsToMethod.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\21.09.2022\PassingArgumentsToMethod\obj\Debug\net6.0\PassingArgumentsToMethod.pdb
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\21.09.2022\PassingArgumentsToMethod\obj\Debug\net6.0\PassingArgumentsToMethod.genruntimeconfig.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\21.09.2022\PassingArgumentsToMethod\obj\Debug\net6.0\ref\PassingArgumentsToMethod.dll
