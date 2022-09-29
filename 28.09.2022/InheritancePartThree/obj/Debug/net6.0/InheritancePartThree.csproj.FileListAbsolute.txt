@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\28.09.2022\InheritancePartThree\bin\Debug\net6.0\InheritancePartThree.exe
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\28.09.2022\InheritancePartThree\bin\Debug\net6.0\InheritancePartThree.deps.json
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\28.09.2022\InheritancePartThree\bin\Debug\net6.0\InheritancePartThree.runtimeconfig.json
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\28.09.2022\InheritancePartThree\bin\Debug\net6.0\InheritancePartThree.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\28.09.2022\InheritancePartThree\bin\Debug\net6.0\InheritancePartThree.pdb
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\28.09.2022\InheritancePartThree\obj\Debug\net6.0\InheritancePartThree.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\28.09.2022\InheritancePartThree\obj\Debug\net6.0\InheritancePartThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\28.09.2022\InheritancePartThree\obj\Debug\net6.0\InheritancePartThree.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\28.09.2022\InheritancePartThree\obj\Debug\net6.0\InheritancePartThree.AssemblyInfo.cs
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\28.09.2022\InheritancePartThree\obj\Debug\net6.0\InheritancePartThree.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\28.09.2022\InheritancePartThree\obj\Debug\net6.0\InheritancePartThree.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\28.09.2022\InheritancePartThree\obj\Debug\net6.0\refint\InheritancePartThree.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\28.09.2022\InheritancePartThree\obj\Debug\net6.0\InheritancePartThree.pdb
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\28.09.2022\InheritancePartThree\obj\Debug\net6.0\InheritancePartThree.genruntimeconfig.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\28.09.2022\InheritancePartThree\obj\Debug\net6.0\ref\InheritancePartThree.dll
