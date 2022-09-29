@@ -75,7 +75,7 @@ _Ref modifier; Out modifie
 # A little explanation
 ### I haven't gave up programming for last 6 days, but I've changed my mind from this sprint to writing articles about C# in Medium for beginners. But then I've made a decision that, this sprint is much more important for me. So, Show must go on 😁
 
-## Day 10(27 September 2022)
+## Day 10 (27 September 2022)
 #### _How much time have I spared to Csharp today?_
 _180 minutes_
 #### _What topics have I looked into today?_
@@ -85,3 +85,11 @@ _Params modifier; Named arguments; Ref locals; Target-typed expressions;_
 _Using Constructors; Private constructors;Static constructors; Init-only setters;_
 ##### Partial classes and methods
 _Partial class; Nested Partial classes;Rules for Partial classes; Partial method; Definiton and implementation;_
+
+## Day 11 (28 September 2022)
+#### _How much time have I spared to Csharp today?_
+_73 minutes_
+#### _What topics have I looked into today?_
+##### Inheritance
+_Base Class;SubClass;Polymorphism; Casting; As operator;_
+
