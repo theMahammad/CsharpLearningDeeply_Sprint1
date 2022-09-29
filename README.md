@@ -70,7 +70,7 @@ _Value types; Reference types;_
 _30 minutes_
 #### _What topics have I looked into today?_
 ##### Passing arguments to the methods
-_Ref modifier; Out modifie  
+_Ref modifier; Out modifier;_  
 
 # A little explanation
 ### I haven't gave up programming for last 6 days, but I've changed my mind from this sprint to writing articles about C# in Medium for beginners. But then I've made a decision that, this sprint is much more important for me. So, Show must go on 😁
@@ -92,4 +92,11 @@ _73 minutes_
 #### _What topics have I looked into today?_
 ##### Inheritance
 _Base Class;SubClass;Polymorphism; Casting; As operator;_
+
+## Day 12 (29 September 2022)
+#### _How much time have I spared to Csharp today?_
+_23 minutes_
+#### _What topics have I looked into today?_
+##### Inheritance
+_as operator;is operator; introducing a pattern variable;_
 

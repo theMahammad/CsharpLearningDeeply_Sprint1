@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\29.09.2022\İnheritance\bin\Debug\net6.0\İnheritance.exe
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\29.09.2022\İnheritance\bin\Debug\net6.0\İnheritance.deps.json
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\29.09.2022\İnheritance\bin\Debug\net6.0\İnheritance.runtimeconfig.json
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\29.09.2022\İnheritance\bin\Debug\net6.0\İnheritance.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\29.09.2022\İnheritance\bin\Debug\net6.0\İnheritance.pdb
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\29.09.2022\İnheritance\obj\Debug\net6.0\İnheritance.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\29.09.2022\İnheritance\obj\Debug\net6.0\İnheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\29.09.2022\İnheritance\obj\Debug\net6.0\İnheritance.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\29.09.2022\İnheritance\obj\Debug\net6.0\İnheritance.AssemblyInfo.cs
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\29.09.2022\İnheritance\obj\Debug\net6.0\İnheritance.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\29.09.2022\İnheritance\obj\Debug\net6.0\İnheritance.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\29.09.2022\İnheritance\obj\Debug\net6.0\refint\İnheritance.dll
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\29.09.2022\İnheritance\obj\Debug\net6.0\İnheritance.pdb
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\29.09.2022\İnheritance\obj\Debug\net6.0\İnheritance.genruntimeconfig.cache
+C:\Users\acer\source\repos\C#LearningDeeply_Sprint1\29.09.2022\İnheritance\obj\Debug\net6.0\ref\İnheritance.dll
