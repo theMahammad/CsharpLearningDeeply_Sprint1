@@ -100,3 +100,10 @@ _23 minutes_
 ##### Inheritance
 _as operator;is operator; introducing a pattern variable;_
 
+## Day 13 (30 September 2022)
+#### _How much time have I spared to Csharp today?_
+_28 minutes_
+#### _What topics have I looked into today?_
+##### Inheritance
+_Virtual function members; Overriding_
+
